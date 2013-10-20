@@ -8,36 +8,36 @@ Theme			: 	Red
 *** COLOR GUIDANCE ***
 Just  replace the coresponding theme values to your own theme color
 
-Red Color		:	#d94d48; 
+Red Color		:	#c0d23e; 
 Classes			:	{ body:border,#header a:background, .btn-success: background-color, .featureicon, .footericon }
 
-Dark Red Color	:	#9c2520;
+Dark Red Color	:	#e5f04c;
 Classes			:	{ #header a:box-shadow , a:text-shadow and i:color,.btn-success: background-gradient, .footericon a:hover:color }
 
 Gray Color		:	#525252;
 Clases			:	{ body:color, #catchcontent h2 and p, }
 */
-body{ color:#525252; border-top:solid 5px #d94d48; background:#fff url(../img/pattern1.png);}
+body{ color:#525252; border-top:solid 5px #c0d23e; background:#fff url(../img/pattern1.png);}
 /*** HEADER CONTENT ****/
 #header{margin-top:45px; margin-bottom:60px; text-align:center;}
 /*#header a{ display:block; width:129px; height:131px; background:url(../img/logo.png) no-repeat center; text-indent:-9999px; margin:0 auto;}
 */
 #header a{
-	width:130px; height:70px; display:block; background:#d94d48; margin:0 auto; color:#fff;padding:30px 0;
+	width:130px; height:70px; display:block; background:#c0d23e; margin:0 auto; color:#fff;padding:30px 0;
 	-webkit-border-radius: 70px;
 	border-radius: 70px;
 	-moz-border-radius:70px;
 	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;	
-	-webkit-box-shadow: 0px 2px 0px 0px #9c2520;
-	-moz-box-shadow: 0px 2px 0px 0px #9c2520;
-    box-shadow: 0px 2px 0px 0px #9c2520;
-	text-shadow: 0px 1px #9c2520;
+	-webkit-box-shadow: 0px 2px 0px 0px #e5f04c;
+	-moz-box-shadow: 0px 2px 0px 0px #e5f04c;
+    box-shadow: 0px 2px 0px 0px #e5f04c;
+	text-shadow: 0px 1px #e5f04c;
 	font-family: 'Droid Sans', serif; font-weight: 700;
 	 
 
 }
 #header a:hover{ text-decoration:none;}
-#header a i{color:#9c2520; font-size:18px; line-height:28px; padding:0 5px; *padding:0 0px;	
+#header a i{color:#e5f04c; font-size:18px; line-height:28px; padding:0 5px; *padding:0 0px;	
 	-webkit-background-clip: text;
 	-moz-background-clip: text;
 	background-clip: text;
@@ -56,18 +56,18 @@ body{ color:#525252; border-top:solid 5px #d94d48; background:#fff url(../img/pa
 #subscribe{text-align:center; margin-top:40px;}
 .input-large{ padding:9px 14px; }
 .btn-success {
-  background-color: #d94d48;
-  *background-color: #d94d48;
-  background-image: -ms-linear-gradient(top, #d94d48, #9c2520);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#d94d48), to(#9c2520));
-  background-image: -webkit-linear-gradient(top, #d94d48, #9c2520);
-  background-image: -o-linear-gradient(top, #d94d48, #9c2520);
-  background-image: -moz-linear-gradient(top, #d94d48, #9c2520);
-  background-image: linear-gradient(top, #d94d48, #9c2520);
+  background-color: #c0d23e;
+  *background-color: #c0d23e;
+  background-image: -ms-linear-gradient(top, #c0d23e, #e5f04c);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#c0d23e), to(#e5f04c));
+  background-image: -webkit-linear-gradient(top, #c0d23e, #e5f04c);
+  background-image: -o-linear-gradient(top, #c0d23e, #e5f04c);
+  background-image: -moz-linear-gradient(top, #c0d23e, #e5f04c);
+  background-image: linear-gradient(top, #c0d23e, #e5f04c);
   background-repeat: repeat-x;
-  border-color: #9c2520 #9c2520 #9c2520;
+  border-color: #e5f04c #e5f04c #e5f04c;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#d94d48', endColorstr='#9c2520', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#c0d23e', endColorstr='#e5f04c', GradientType=0);
   filter: progid:dximagetransform.microsoft.gradient(enabled=false);  
    
 }
@@ -76,12 +76,12 @@ body{ color:#525252; border-top:solid 5px #d94d48; background:#fff url(../img/pa
 .btn-success.active,
 .btn-success.disabled,
 .btn-success[disabled] {
-  background-color: #9c2520;
-  *background-color: #9c2520;
+  background-color: #e5f04c;
+  *background-color: #e5f04c;
 }
 .btn-success:active,
 .btn-success.active {
-  background-color: #9c2520 \9;
+  background-color: #e5f04c \9;
 }
 .btn-large {
   padding: 9px 20px;
@@ -109,7 +109,7 @@ textarea:focus {
 /*** FEATURES ****/
 #features{margin-top:40px; text-align:center; }
 #features .divider{background:url(../img/divider.png) repeat-y right;}
-.featureicon{ color:#d94d48; font-size:56px; margin-bottom:20px; padding:0 20px 0 0;}
+.featureicon{ color:#c0d23e; font-size:56px; margin-bottom:20px; padding:0 20px 0 0;}
 #features h3{ font-size:20px; font-family: 'Droid Sans', serif; line-height:30px; font-weight:700; padding:0 20px 0 0;}
 #features p{font-size:13px; font-family: 'Droid Sans', serif; line-height:20px; font-weight:400;padding:10px 20px 0 0;}
 .divider{background:url(../img/divider.png) repeat-y right;}
@@ -117,9 +117,9 @@ textarea:focus {
 /*** FOOTER ****/
 #footer{margin-top:20px; text-align:center; background:url(../img/footer-divider.png) repeat-x top; padding-top:40px;}
 #footer h4{ margin:0 0 20px;font-size:14px; font-family: 'Droid Serif', serif; line-height:24px; font-weight:400;}
-.footericon{ color:#d94d48; font-size:36px; margin-bottom:15px;}
-.footericon a{ color:#d94d48;}
-.footericon a:hover{ color:#9c2520; text-decoration:none;}
+.footericon{ color:#c0d23e; font-size:36px; margin-bottom:15px;}
+.footericon a{ color:#c0d23e;}
+.footericon a:hover{ color:#e5f04c; text-decoration:none;}
 #footer p{ font-size:10px; font-family: 'Droid Serif', serif;font-weight:400;}
 
 
