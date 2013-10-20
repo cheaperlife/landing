@@ -32,7 +32,7 @@ body{ color:#525252; border-top:solid 5px #c0d23e; background:#fff url(../img/pa
 	-moz-box-shadow: 0px 2px 0px 0px #e5f04c;
     box-shadow: 0px 2px 0px 0px #e5f04c;
 	text-shadow: 0px 1px #e5f04c;
-	font-family: 'Source Sans Pro', serif; font-weight: 700;
+	font-family: 'Droid Sans', serif; font-weight: 700;
 	 
 
 }
@@ -49,8 +49,8 @@ body{ color:#525252; border-top:solid 5px #c0d23e; background:#fff url(../img/pa
 
 /*** CATCHY CONTENT ****/
 #catchycontent{ text-align:center;}
-#catchycontent h2{ font-size:30px; font-family: 'Source Sans Pro', serif; font-weight: 400; margin-bottom:30px; }
-#catchycontent p{ font-size:16px; font-family: 'Source Sans Pro', serif; line-height:26px; font-weight:400; font-style:italic;}
+#catchycontent h2{ font-size:30px; font-family: 'Droid Sans', serif; font-weight: 400; margin-bottom:30px; }
+#catchycontent p{ font-size:16px; font-family: 'Droid Sans', serif; line-height:26px; font-weight:400; font-style:italic;}
 
 /*** SUBSCRIBE ****/
 #subscribe{text-align:center; margin-top:40px;}
@@ -87,7 +87,7 @@ body{ color:#525252; border-top:solid 5px #c0d23e; background:#fff url(../img/pa
   padding: 9px 20px;
   font-size: 16px;
   line-height: normal;
-  font-weight:700;font-family: 'Source Sans Pro', serif; font-style:italic;
+  font-weight:700;font-family: 'Droid Sans', serif; font-style:italic;
   margin-left:10px;
   -webkit-border-radius: 5px;
      -moz-border-radius: 5px;
@@ -116,11 +116,11 @@ textarea:focus {
 
 /*** FOOTER ****/
 #footer{margin-top:20px; text-align:center; background:url(../img/footer-divider.png) repeat-x top; padding-top:40px;}
-#footer h4{ margin:0 0 20px;font-size:14px; font-family: 'Source Sans Pro', serif; line-height:24px; font-weight:400;}
+#footer h4{ margin:0 0 20px;font-size:14px; font-family: 'Droid Sans', serif; line-height:24px; font-weight:400;}
 .footericon{ color:#c0d23e; font-size:36px; margin-bottom:15px;}
 .footericon a{ color:#c0d23e;}
 .footericon a:hover{ color:#e5f04c; text-decoration:none;}
-#footer p{ font-size:10px; font-family: 'Source Sans Pro', serif;font-weight:400;}
+#footer p{ font-size:10px; font-family: 'Droid Sans', serif;font-weight:400;}
 
 
 /*** MEDIA QUERIES ****/
