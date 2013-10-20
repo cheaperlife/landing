@@ -23,7 +23,7 @@ body{ color:#525252; border-top:solid 5px #c0d23e; background:#fff url(../img/pa
 /*#header a{ display:block; width:129px; height:131px; background:url(../img/logo.png) no-repeat center; text-indent:-9999px; margin:0 auto;}
 */
 .topcontainer {
-  padding-left: 30px;width: 100%; background-color: white; padding: 25px;height: auto; padding: none; margin:none;
+  padding-left: 30px;width: 100%; background-color: white; padding: 25px 0px;height: auto; padding: none; margin:none;
   font-family: 'Source Sans Pro', sans-serif; font-weight: 700;
 }
 
